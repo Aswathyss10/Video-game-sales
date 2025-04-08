@@ -1,7 +1,9 @@
 *Video-game-sales*
+
 This project analyzes global video game sales data using Power BI to uncover trends across regions, consoles, genres, and publishers. By performing exploratory data analysis (EDA), the project identifies key factors influencing sales performance, highlights top-performing games and publishers, and reveals regional preferences and market trends in the video game industry
 
 *Dataset*
+
 The dataset includes:
 
 Game Information: Title, Console, Genre, Publisher, Developer, Release Date
@@ -11,13 +13,16 @@ Sales Data: Global and regional sales (NA, JP, PAL, Other) in millions
 Additional Fields: Critic Score,image,last_updated
 
 *Key Statistics*:
+
 Total Records: 64017
 Key Features: consoles,genres,publishers,region
 
 *Tools*
+
 Tools:Powerbi
 
 Exploratory Data Analysis (EDA)
+
 The analysis involved:
 
 Data Cleaning:
